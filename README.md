@@ -88,7 +88,7 @@ Swiggy lists hundreds of outlets in Bangalore, but which ones actually offer **g
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/swiggy-bangalore-restaurant-analysis.git
+git clone https://github.com/<aryank2074-a>/swiggy-bangalore-restaurant-analysis.git
 cd swiggy-bangalore-restaurant-analysis
 
 # 2. Install dependencies
